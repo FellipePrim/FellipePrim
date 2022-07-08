@@ -7,6 +7,7 @@
 <div>
   <a href="https://github.com/FellipePrim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FellipePrim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+   ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=UTILIZADOR&layout=compact&theme=dracula)
 <div style="display: inline_block"><br>
   <img align="center" alt="Prim-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Prim-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
