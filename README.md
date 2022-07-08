@@ -6,8 +6,9 @@
 
 <div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=FellipePrim_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=graywhite" width="440"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FellipePrim=compact&theme=graywhite&hide_border=true" width="313" />
+  <a href="https://github.com/FellipePrim">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FellipePrim&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FellipePrim&layout=compact&langs_count=10&hide=Jupyter Notebook&theme=dark"/>
 </div>
   <a href="https://github.com/FellipePrim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FellipePrim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
