@@ -5,13 +5,13 @@
 - E-mail de contato: fellipe.prim@gmail.com
 
 <div>
+
 <div align="center">
   <a href="https://github.com/FellipePrim">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FellipePrim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FellipePrim&layout=compact&langs_count=10&hide=Jupyter Notebook&theme=dark"/>
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FellipePrim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FellipePrim&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
   <a href="https://github.com/FellipePrim">  
 <div style="display: inline_block"><br>
   <img align="center" alt="Prim-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
