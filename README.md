@@ -1,6 +1,7 @@
 ## Olá! seja bem vindo ao meu perfil
 
 - Curso Técnico de Desenvolvimento de Sistemas completo (SENAI)
+- https://www.udemy.com/user/fellipe-n-prim/
 - Estudando JavaScript, TypeScript, React, Java e PHP 
 - E-mail de contato: fellipe.prim@gmail.com
 
