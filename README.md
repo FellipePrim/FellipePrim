@@ -1,6 +1,6 @@
 ## Olá! seja bem vindo ao meu perfil
 
-- Finalizando o Curso Técnico de Desenvolvimento de Sistemas (SENAI)
+- Curso Técnico de Desenvolvimento de Sistemas completo (SENAI)
 - Estudando JavaScript, TypeScript, React, Java e PHP 
 - E-mail de contato: fellipe.prim@gmail.com
 
