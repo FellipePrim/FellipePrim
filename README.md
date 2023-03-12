@@ -1,9 +1,8 @@
 ## Olá! seja bem vindo ao meu perfil
 
 - Curso Técnico de Desenvolvimento de Sistemas completo (SENAI)
-- Estudando JavaScript, Java e PHP 
+- Estudando JavaScript e Python
 - E-mail de contato: fellipe.prim@gmail.com
-- https://www.udemy.com/user/fellipe-n-prim/
 
 <div>
 
@@ -15,11 +14,9 @@
 
   <a href="https://github.com/FellipePrim">  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Prim-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Prim-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Prim-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Prim-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Prim-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Prim-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Prim-PHP" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 </div>
 
