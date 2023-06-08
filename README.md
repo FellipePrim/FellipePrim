@@ -1,6 +1,4 @@
-## Olá! seja bem vindo ao meu perfil
-
-- Curso Técnico de Desenvolvimento de Sistemas completo (SENAI)
+- 2005
 - Estudando JavaScript e Python
 - E-mail de contato: fellipe.prim@gmail.com
 
