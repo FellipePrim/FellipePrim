@@ -12,7 +12,7 @@
     <p>
       I'm currently taking a Bachelor's degree in Software Engineering
       <br>
-      Focused on learning Javascript and Oracle
+      Focused on learning Javascript and Python
     </p>
  </div>
   
