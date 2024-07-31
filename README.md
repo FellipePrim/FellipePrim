@@ -7,7 +7,14 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FellipePrim&layout=compact&hide_border=true&title_color=6b228f&text_color=fff&bg_color=0d1117" />
 </div>
 
- 
+<h3 align="left">👩‍💻  About Me</h3>
+
+<p align="left">-  Software Engeneering Student<br>-  Currently learning MySQL and Java</p>
+
+<h3 align="left">🔗  Links</h3>
+
+<p align="left">- https://drive.google.com/drive/folders/1D_OoAE9POgcrPIAIuUcNPqwaqX1cZbV5?usp=sharing<br>-  https://leetcode.com/u/fellipeprim/<br>- https://www.hackerrank.com/profile/Fellipe_prim</p>
+
 
   
 
