@@ -9,7 +9,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left">-  Software Engeneering Student<br>-  Currently learning MySQL and Java</p>
+<p align="left">Hello! I'm a technology and software development enthusiast. I like exploring new innovations and sharing knowledge. I'm here to improve my skills and develop some projects, always seeking creative and effective solutions. I'm currently learning Java and MySQL.</p>
 
 <h3 align="left">🔗  Links</h3>
 
